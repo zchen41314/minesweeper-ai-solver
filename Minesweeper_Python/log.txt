@@ -1,0 +1,296 @@
+Running on world: /home/zijc/minesweeper-zi-jian-chen/WorldGenerator/Problemss/Beginner_world997.txt
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+12 12
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+14 10
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+11 5
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+15 6
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+6 11
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+6 5
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+14 13
+flagging
+picking from queue uncover
+14 14
+flagging
+picking from queue uncover
+picking from queue uncover
+6 4
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+5 15
+flagging
+6 15
+flagging
+7 15
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+11 15
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+10 3
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+9 15
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+5 9
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+6 2
+flagging
+7 2
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+13 4
+flagging
+14 4
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+3 11
+flagging
+this is contributed by 4 11
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+5 6
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+2 10
+flagging
+2 9
+flagging
+3 9
+flagging
+picking from queue uncover
+3 8
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+0 13
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+flagging from potential_Safe
+8 8 4 5
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+2 7
+flagging
+2 8
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+0 4
+flagging
+flagging from potential_Safe
+10 8 5 3
+picking from queue uncover
+picking from queue uncover
+2 3
+flagging
+picking from queue uncover
+picking from queue uncover
+picking from queue uncover
+flagging from potential_Safe
+5 5 0 2
+picking from queue uncover
+Printing DIFF 
+
+Number of mines: 40
+Number of flags left: 6
+ 16| 0/0 0/0 0/0 0/0 1/1 B/B B/B B/B 2/2 B/B 2/2 B/B 1/1 1/1 1/1 1/1 
+ 15| 1/1 1/1 0/0 0/0 1/1 2/2 3/3 2/2 2/2 1/1 2/2 1/1 1/1 2/2 B/B 2/2 
+ 14| B/B 1/1 0/0 0/0 0/0 0/0 0/0 0/0 0/0 0/0 0/0 1/1 1/1 3/3 B/B 2/2 
+ 13| 1/1 1/1 1/1 1/1 1/1 1/1 1/1 1/1 0/0 0/0 0/0 1/1 B/B 2/2 1/1 1/1 
+ 12| 0/0 1/1 2/2 B/B 1/1 1/1 B/B 1/1 0/0 0/0 0/0 1/1 1/1 2/2 1/1 1/1 
+ 11| 1/1 3/3 B/B 4/4 3/3 2/2 2/2 1/1 0/0 0/0 0/0 0/0 0/0 1/1 B/B 1/1 
+ 10| [91mB/.[0m [91m5/.[0m B/B B/B 3/3 B/B 1/1 0/0 0/0 0/0 0/0 0/0 0/0 1/1 1/1 1/1 
+ 9 | [91mB/.[0m [91m5/.[0m B/B B/B 3/3 1/1 1/1 0/0 0/0 0/0 0/0 0/0 0/0 0/0 0/0 0/0 
+ 8 | 1/1 3/3 B/B 3/3 2/2 1/1 1/1 0/0 0/0 0/0 0/0 0/0 0/0 0/0 1/1 1/1 
+ 7 | 0/0 1/1 1/1 2/2 2/2 B/B 2/2 1/1 0/0 0/0 1/1 1/1 1/1 0/0 1/1 B/B 
+ 6 | 1/1 1/1 0/0 1/1 B/B 4/4 B/B 2/2 0/0 0/0 1/1 B/B 2/2 2/2 3/3 2/2 
+ 5 | B/B 2/2 1/1 2/2 2/2 4/4 B/B 2/2 0/0 1/1 2/2 2/2 2/2 B/B B/B 1/1 
+ 4 | 2/2 3/3 B/B 2/2 2/2 B/B 4/4 3/3 1/1 1/1 B/B 1/1 1/1 2/2 2/2 1/1 
+ 3 | [91m1/B[0m [91mB/.[0m [91m3/.[0m [91mB/.[0m [91m3/.[0m 3/3 B/B B/B 1/1 1/1 1/1 1/1 0/0 0/0 0/0 0/0 
+ 2 | [91m1/.[0m [91m2/.[0m [91m3/.[0m [91m3/.[0m [91m3/.[0m [91mB/.[0m 3/3 2/2 1/1 0/0 0/0 0/0 0/0 0/0 0/0 0/0 
+ 1 | [91m0/.[0m [91m1/.[0m [91mB/.[0m [91m2/.[0m [91mB/.[0m [91m2/.[0m 1/1 0/0 0/0 0/0 0/0 0/0 0/0 0/0 0/0 0/0 
+   ----------------------------------------------------------------
+     1   2   3   4   5   6   7   8   9   10  11  12  13  14  15  16  
+WORLD INCOMPLETE
